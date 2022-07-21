@@ -12,7 +12,7 @@ O mundo está passando por uma mudança bastante significativa pós-covid e a en
 ---
 
 ## Projects:
-* **Analisando os dados do Airbnb:** 
+* **Analisando os dados do Airbnb:** https://bit.ly/3aXCgv1
 
 
 ## Social Network:
