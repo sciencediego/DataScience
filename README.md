@@ -10,6 +10,11 @@ Ingressei nesse universo de Data Science por curiosidade e para se aprofundar em
 O mundo está passando por uma mudança bastante significativa pós-covid e a engenharia não poderia ser diferente. Atualmente, mais do que saber sobre produção, é necessário ter uma visão macro sobre o projeto a ser desenvolvido. Para isso, o estudo de Data Science nos fornece uma análise mais precisa dos dados, favorecendo uma melhor tomada de decisões.
 
 ---
+
+## Projects:
+* **Analisando os dados do Airbnb:** 
+
+
 ## Social Network:
 [![author](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoseys/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegow.maartins@gmail.com) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoSeys)
 
@@ -20,8 +25,4 @@ O mundo está passando por uma mudança bastante significativa pós-covid e a en
 ---
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoseys&show_icons=true&theme=algolia&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseys&layout=compact)](https://github.com/diegoseys/github-readme-stats)
 
-
-
-## Projects:
-* **Analisando os dados do Airbnb:** 
 ---
