@@ -23,6 +23,6 @@ O mundo está passando por uma mudança bastante significativa pós-covid e a en
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com) [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)](https://miro.com/pt/login/)
 
 ---
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoseys&show_icons=true&theme=algolia&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseys&layout=compact)](https://github.com/diegoseys/github-readme-stats)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSeys&show_icons=true&theme=algolia&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSeys&layout=compact)](https://github.com/DiegoSeys/github-readme-stats)
 
 ---
