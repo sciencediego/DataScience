@@ -3,7 +3,7 @@
 </p>
 
 # Diego Martins
-<sub>Manufacturing Engineering Student  l Data Science Student at Sigmoidal</sub>
+<sub>Production Engineering Student  l Data Science Student at Sigmoidal</sub>
 
 Ingressei nesse universo de Data Science por curiosidade e para se aprofundar em dados. Procuro estabelecer uma relação de estudos entre Data Science e a Engenharia de Produção, seja na criação de projetos ou artigos. 
 
