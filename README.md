@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner3.png" >
+  <img src="[banner3.png](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)" >
 </p>
 
 ## Diego Martins
