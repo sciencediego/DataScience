@@ -13,6 +13,7 @@ O mundo está passando por uma mudança bastante significativa pós-covid e a en
 
 ## Projects:
 * **Analisando os dados do Airbnb:** https://bit.ly/3RNkWK8
+* **Software de gestão para locadora de carros:** http://bit.ly/3S2pApg
 
 
 ## Social Network:
